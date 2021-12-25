@@ -13,7 +13,7 @@ Shell script that displays, “This script will exit with 0 exit status.” and 
 ### 6) Exercise 6
 Shell script that consists of a function that displays the number of files in the present working directory. Name this function “file_count” and call it in your script.
 ### 7) LinuxAssignment
-Its a combined script which executes all the above mentioned scripts.
+Its a combined script which executes all the above mentioned scripts as per users choice.
 
 ## To run the script
 ```sh name_of_script.sh```
